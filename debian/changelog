@@ -1,8 +1,8 @@
-coyaml (0.3.14-2) precise; urgency=low
+coyaml (0.3.14-3) precise; urgency=low
 
   * Nothing
 
- -- Paul Colomiets (tailhook) <paul@colomiets.name>  Mon, 07 Nov 2011 23:24:42 +0300
+ -- Paul Colomiets (tailhook) <paul@colomiets.name>  Sat, 04 Aug 2012 17:49:51 +0300
 
 coyaml (0.3.14-1) precise; urgency=low
 
