@@ -1,0 +1,22 @@
+* implement some tag to append values to a list
+* recursive variable handling
+* fix memory leak
+
+* implement handling of multiple command line utilities with shared config
+* implement more pretty config output
+* implement includes based on glob-like pattern
+* implement absolute paths for files and directories
+* check existence of files and directories
+* implement cross-structure inheritance
+* enable file/line info for specially configured structs to be more
+  user-friendly
+* configuration output issues
+    * better print struct values with `__value__`
+    * better print empty strings (now it's trailing whitespace)
+* implement enums and bitsets
+* variables
+    * run-time
+* last or the only anchor definition should work instead first
+* WRITE COMPREHENSIVE DOCUMENTATION
+* make better messages for common mistakes in input files
+* python support

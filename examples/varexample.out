@@ -1,0 +1,15 @@
+Data:
+  int1: 10
+  int2: 10
+  int3: 10
+  uint1: 10
+  uint2: 12000000
+  uint3: 172
+  float1: 135.000000
+  float2: 17000000000000.000000
+  float3: 100000.000000
+  str1: 10
+  str2: 12310
+  str3: abc7
+  str4: abc$i
+  str5: abc$(i)
