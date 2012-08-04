@@ -22,7 +22,11 @@ def options(opt):
 
 def configure(conf):
     conf.load('compiler_c python')
-    conf.check_python_version((3,0,0))
+    try:
+        conf.check_python_version((3,0,0))
+    except conf.errors.ConfigurationError:
+        conf.env.PYTHON = 'python3'
+        conf.check_python_version((3,0,0))
     conf.env.BUILD_SHARED = Options.options.build_shared
 
 def build(bld):

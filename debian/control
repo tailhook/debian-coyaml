@@ -1,0 +1,15 @@
+Source: coyaml
+Priority: extra
+Maintainer: Paul Colomiets <paul@colomiets.name>
+Build-Depends: debhelper (>= 8.0.0), cdbs, python3, libyaml-dev, git
+Standards-Version: 3.9.2
+Section: libs
+Homepage: http://github.com/tailhook/coyaml
+Vcs-Git: git://github.com/tailhook/coyaml.git
+Vcs-Browser: http://github.com/tailhook/coyaml
+
+Package: coyaml-dev
+Section: libdevel
+Architecture: any
+Depends: python3, libyaml-dev
+Description: Configuration parser generator

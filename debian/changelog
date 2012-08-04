@@ -1,0 +1,12 @@
+coyaml (0.3.14-1) precise; urgency=low
+
+  * Bug fixes
+  * New ubuntu release
+
+ -- Paul Colomiets <paul@colomiets.name>  Mon, 07 Nov 2011 23:24:42 +0300
+
+coyaml (0.3.13.3-10) oneiric; urgency=low
+
+  * Initial release
+
+ -- Paul Colomiets <paul@colomiets.name>  Mon, 07 Nov 2011 23:24:42 +0300
